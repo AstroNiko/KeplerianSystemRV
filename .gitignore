@@ -3,16 +3,16 @@
 # ==========================================
 .DS_Store
 Thumbs.db
+.vscode
 # ==========================================
 # Archivos y directorios de Python
 # ==========================================
 __pycache__/
 *.py[cod]
 *$py.class
-# Entornos virtuales
-venv/
-env/
-.venv/
+
+
+
 # ==========================================
 # Cuadernos de Jupyter
 # ==========================================
