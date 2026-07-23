@@ -1,0 +1,19 @@
+# ==========================================
+# Archivos del sistema operativo
+# ==========================================
+.DS_Store
+Thumbs.db
+# ==========================================
+# Archivos y directorios de Python
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+# Entornos virtuales
+venv/
+env/
+.venv/
+# ==========================================
+# Cuadernos de Jupyter
+# ==========================================
+.ipynb_checkpoints/
