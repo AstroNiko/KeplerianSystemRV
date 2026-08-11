@@ -4,7 +4,7 @@
  ## Estructura del Repositorio
 * [`data/`](data/): Contiene los datos observacionales de entrada.
 * [`docs/`](docs/): Contenido teorico del código.
-* [`src/`](src/): Código fuente del proyecto. Incluye `orbital_model.py` con la clase principal `OrbitalSystem_infe` y las resoluciones de la ecuación de Kepler.
+* [`src/`](src/): Código fuente del proyecto. Incluye `orbital_model.py` con la clase principal `OrbitalSystem_infe` y las resoluciones de la ecuación de Kepler. Reciente implementación de `planet_params.py ` para derivar $M_p \sin i$
 * [`notebooks/`](notebooks/): Cuadernos de Jupyter empleados para la ejecución de ajustes, evaluación de la convergencia de las cadenas y generación de *corner plots*. Archivo principal: `RadialVelocities_emcee.ipynb`.
 * [`results/`](results/): Directorio de salida para los estadísticos derivados 
 
