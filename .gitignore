@@ -17,3 +17,5 @@ __pycache__/
 # Cuadernos de Jupyter
 # ==========================================
 .ipynb_checkpoints/
+#===========================================
+/Plots_Proposal2027A
